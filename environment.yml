@@ -7,5 +7,9 @@ dependencies:
   - pip
   - numpy>=2.1
   - matplotlib>=3.10
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - sympy
   - pip:
       - -e . # install local repo
