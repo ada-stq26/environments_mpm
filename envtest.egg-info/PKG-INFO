@@ -5,3 +5,7 @@ Summary: Demo package for environments lecture
 Requires-Python: >=3.11
 Requires-Dist: numpy>=2.1
 Requires-Dist: matplotlib>=3.10
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+Requires-Dist: scikit-image
+Requires-Dist: sympy
